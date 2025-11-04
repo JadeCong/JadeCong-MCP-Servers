@@ -1,6 +1,6 @@
 # MCP Servers
 
-> MCP Servers for Custom Agents.
+> MCP Servers for JadeCong.
 
 ---
 
