@@ -1,6 +1,6 @@
 # MCP Servers
 
-> MCP Servers for JadeCong.
+> MCP Servers Archive for JadeCong.
 
 ---
 
